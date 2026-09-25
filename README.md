@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🛡️ Hi, I'm Abir | Cybersecurity Specialist & Freelance Security Researcher
+|                                                                        |
+|  [>] Penetration Testing | Vulnerability Assessment | Network Security  |
+|  [>] Bug Bounty Hunter | Python Security Automation | Freelancer       |
+__________________________|
+### 🧰 Tech Stack & Security Tools
 
-<!--
-**abir827/abir827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Languages:*  
+Python • Bash • Go • C/C++ • SQL
 
-Here are some ideas to get you started:
+*Security & Tools:*  
+Burp Suite • Nmap • Metasploit • Wireshark • Linux (Kali/Parrot) • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Services & What I Do
+
+- 🔒 *Vulnerability Assessment & Penetration Testing (VAPT):* Web applications and API security audits.
+- 🐍 *Security Automation:* Building custom Python/Bash scripts for OSINT, recon, and log analysis.
+- 🐛 *Bug Bounty:* Active bug hunter across global vulnerability disclosure programs.
+- 💼 *Freelance Support:* Available for code reviews, security consulting, and security reports.
+
+---
+
+### 📊 GitHub Stats
+
+![Abir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abir827&show_icons=true&theme=radical)
+![Top Languages](https://g…
